@@ -2,7 +2,7 @@
 In this project I built Emotion Detection models that can predict the emotion for any given input text data.
 I built these models using two approaches:
 ## 1) Classical Machine Learning 
-Models created: LogisticRegression, KNeighborsClassifier, SVC, DecisionTreeClassifier, RandomForestClassifier, MultinomialNB
+Models created using pipeline: LogisticRegression, KNeighborsClassifier, SVC, DecisionTreeClassifier, RandomForestClassifier, MultinomialNB
 
 Out of these models, Random Forest model performed the best with f1 score(macro) of 0.87 and accuracy of 89% on validation data
 
