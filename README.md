@@ -1,6 +1,5 @@
 # Emotion-Detection-on-text-data-with-ML
-In this project I built Emotion Detection models that can predict the emotion for any given input text data.
-I built these models using two approaches:
+In this project I built Emotion Detection models using two approaches:
 ## 1) Classical Machine Learning 
 Models created using pipeline: LogisticRegression, KNeighborsClassifier, SVC, DecisionTreeClassifier, RandomForestClassifier, MultinomialNB
 
