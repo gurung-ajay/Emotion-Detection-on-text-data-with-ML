@@ -8,7 +8,11 @@ Out of these models, Random Forest model performed the best with f1 score(macro)
 
 On test data, it got f1 score(macro) of 0.83 and accuracy of 89%.
 
+Models built using: Scikit Learn
+
 ## 2) Deep Learning 
 Models created: Simple RNN, LSTM, Bidirectional LSTM
 
 Out of these models, Simple RNN and LSTM were underfit whereas Bidirectional LSTM performed well with accuracy of 87.94% on validation data
+
+Models built using: Tensorflow
